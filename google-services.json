@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1078132140212",
+    "firebase_url": "https://app-gnib.firebaseio.com",
+    "project_id": "app-gnib",
+    "storage_bucket": "app-gnib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078132140212:android:6436c10dc7026507",
+        "android_client_info": {
+          "package_name": "ie.seda.appgnib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078132140212-fma9mosf5bb651bao6iilm38592n8eg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfqAt3J1znOVdpo4zSA47i6IY_tE659ls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

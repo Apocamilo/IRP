@@ -1,0 +1,7 @@
+{
+  "name": "ie.seda.appgnib",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
